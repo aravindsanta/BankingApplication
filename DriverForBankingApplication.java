@@ -1,5 +1,4 @@
 /*Author: Aravind Santha
- * College:Algonquin college
  * Description: Simple banking application driver
  * Date: Jan 21, 2024
  * */
