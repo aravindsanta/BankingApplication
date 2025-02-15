@@ -1,6 +1,5 @@
 /* This is a basic banking application that shows the balance, withdraws and deposit cash
  *Author: Aravind Santha
- *Collge:Algonquin college,Ottawa
  *Date : Jan 21, 2024
  *Description: A simple banking application that shows the balance, withdraws and deposit cash
  *
